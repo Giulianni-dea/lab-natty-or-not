@@ -1,4 +1,3 @@
-A Magia da Inteligência Artificial Generativa
 
 ## 📒 Descrição
 Música no estilo anos 80 sobre festa de formatura
