@@ -14,7 +14,8 @@ Utilizei o "Copilot" para auxiliar na estrutura do conteúdo e criar de forma l�
 ## 🚀 Resultados
 O e-book oferece um conteúdo divertido e lúdico, permitindo que crianças entre 7 e 10 anos comecem a entender como as IAs Genativas funcionam e as incríveis coisas que elas podem fazer.
 
-file:///C:/Users/deagi/Downloads/A-Magia-da-Inteligencia-Artificial-Generativa.pdf
+
+(https://github.com/Giulianni-dea/lab-natty-or-not/blob/main/A-Magia-da-Inteligencia-Artificial-Generativa.pdf)
 
 
 
