@@ -52,7 +52,6 @@ Pra sempre em nossos corações gravar
 Não conhecia a plataforma, fiquei espantada com a letra e a melodia da música. Gostei bastante!
 
 
-(https://github.com/Giulianni-dea/lab-natty-or-not/blob/main/A-Magia-da-Inteligencia-Artificial-Generativa.pdf)
-
+](https://suno.com/song/372ecf3c-9e90-45a2-b76c-fd9c81b35a71)
 
 
