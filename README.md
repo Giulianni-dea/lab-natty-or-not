@@ -8,7 +8,7 @@ IA Generativa SUNO para criação da música;
 
 
 ## 🧐 Processo de Criação
-Utilizei a plataforma "SUNO" para criar a música com o seguinte prompt: Música dos anos 80, alegre, garotas, escola, festa de formatura, bateria, vesiidos."
+Utilizei a plataforma "SUNO" para criar a música com o seguinte prompt: Música dos anos 80, alegre, garotas, escola, festa de formatura, bateria, vestidos."
 
 Letra da música
 
